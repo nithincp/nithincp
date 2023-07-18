@@ -4,7 +4,7 @@
 
 Highly motivated and skilled developer with 4 years of industrial experience, specializing in Python. I am passionate about building open-source projects and getting involved with the community.
 
-## Tech Stacks
+## 🔧 Tech Stacks
 
 Here are some of the technologies I work with:
 
@@ -18,12 +18,12 @@ Here are some of the technologies I work with:
 
 Feel free to explore my repositories to see projects and code examples in these technologies!
 
-## GitHub Streak/Stats
+## 📈 GitHub Streak/Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nithincp&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithincp&show_icons=true&theme=dark)
 
-## Contact Me
+## 📧 Contact Me
 
 If you'd like to get in touch or discuss potential collaboration, feel free to connect with me through:
 
