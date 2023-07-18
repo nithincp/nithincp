@@ -1,6 +1,8 @@
-# Hi, I'm Nithin
+<div align="center">
+# Hi, I'm Nithin 👋
+</div>
 
-## Introduction
+## 👨‍💻 Introduction
 
 Highly motivated and skilled developer with 4 years of industrial experience, specializing in Python. I am passionate about building open-source projects and getting involved with the community.
 
