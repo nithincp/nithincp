@@ -1,6 +1,4 @@
-<div align="center">
-# Hi, I'm Nithin 👋
-</div>
+# <div align="center">Hi, I'm Nithin 👋</div>
 
 ## 👨‍💻 Introduction
 
